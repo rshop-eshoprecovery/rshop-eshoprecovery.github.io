@@ -11,4 +11,4 @@ rShop is a project aiming to recover the Wii U and 3DS eShops (More soon... e.g:
 repository being used for github sites.
 Progress:
 
-`0% - No code, no hosting, NOTHING.`
+`2% - Account Server. Progress!!`
